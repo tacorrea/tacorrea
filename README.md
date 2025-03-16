@@ -49,14 +49,6 @@ I will be using several frameworks and new technologies to fulfill the requireme
 <a href="https://www.linkedin.com/in/tacorrea" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Projects
-
-- **[E-commerce Feature Suite](https://github.com/tacorrea/ecommerce-suite)**: Boosted performance with Python and FastAPI, integrated with Salesforce and SAP, deployed on Azure.
-- **[Internal Chatbot](https://github.com/tacorrea/chatbot-sharepoint)**: Built a secure chatbot with Django and SharePoint integration, improving access management for 50+ employees.
-- **[Project Quote Tool](https://github.com/tacorrea/quote-tool)**: A Django-based web app hosted on AWS Elastic Beanstalk for project planning and inventory optimization.
-
-*Note: Replace these with your actual projects and links!*
-
 ### Currently Learning
 
 - Advanced Terraform configurations
