@@ -46,8 +46,9 @@ I will be using several frameworks and new technologies to fulfill the requireme
 
 ### Currently Learning
 
-- Advanced Terraform configurations
-- Kubernetes for container orchestration
+- MCP Client application.
+- Advanced Terraform configurations.
+- Kubernetes for container orchestration.
 - German (B1 level in progress)
 
 ### Badges
